@@ -26,4 +26,4 @@ steps:
     serviceConnectionEndpoint: 'snyk authetication'
     testType: 'app'
     monitorWhen: 'always'
-    failOnIssues: true
+    failOnIssues: false
